@@ -3,7 +3,7 @@
 一个对话里先调一次 visualize:read_me（任意模块）。要发表情包时调 visualize:show_widget，widget_code 放：
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/hanashi42/stickers@main/文件名" style="width:160px;border-radius:12px;display:block">
+<img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/文件名" style="width:160px;border-radius:12px;display:block">
 ```
 
 按场景选，一次一张，别每句都贴；文件名含扩展名（.jpg/.gif/.png），照表抄。
