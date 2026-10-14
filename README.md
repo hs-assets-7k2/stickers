@@ -305,7 +305,6 @@
 | `228.gif` | 握手（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/228.gif" width="80"> |
 | `229.gif` | 多多关照（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/229.gif" width="80"> |
 | `230.jpg` | 晚安鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/230.jpg" width="80"> |
-| `231.gif` | 晚安（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/231.gif" width="80"> |
 | `232.jpg` | 我先睡了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/232.jpg" width="80"> |
 | `233.gif` | 有人在吗（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/233.gif" width="80"> |
 | `234.gif` | 有好消息告诉你哦（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/234.gif" width="80"> |
@@ -328,7 +327,7 @@
 | `246.gif` | 欢天喜地的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/246.gif" width="80"> |
 | `247.gif` | 今儿心情倍儿爽（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/247.gif" width="80"> |
 | `248.gif` | 超满足（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/248.gif" width="80"> |
-| `249.gif` | 生活快乐（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/249.gif" width="80"> |
+| `249.gif` | 生活锤爆快乐（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/249.gif" width="80"> |
 | `250.gif` | 鼓掌（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/250.gif" width="80"> |
 | `251.jpg` | 骄傲 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/251.jpg" width="80"> |
 | `252.gif` | 洋洋自得的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/252.gif" width="80"> |
@@ -466,7 +465,6 @@
 | `359.jpg` | 问号 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/359.jpg" width="80"> |
 | `360.jpg` | 晚安睡了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/360.jpg" width="80"> |
 | `361.jpg` | 抬头 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/361.jpg" width="80"> |
-| `362.jpg` | 打你 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/362.jpg" width="80"> |
 | `363.jpg` | mua | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/363.jpg" width="80"> |
 | `364.jpg` | 你是我全世界最喜欢的猪 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/364.jpg" width="80"> |
 | `365.gif` | 洗澡（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/365.gif" width="80"> |
