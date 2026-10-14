@@ -285,3 +285,271 @@
 | `214.jpg` | 奇怪的知识增加了（抽象猫） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/214.jpg" width="80"> |
 | `215.jpg` | 防御和特防上升了（抽象猫） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/215.jpg" width="80"> |
 | `216.png` | 耶（仓鼠） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/216.png" width="80"> |
+
+
+## 猫和老鼠 · 亲昵
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `217.jpg` | 比心给你 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/217.jpg" width="80"> |
+| `218.jpg` | 爱你 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/218.jpg" width="80"> |
+| `219.jpg` | 我已经坐好等亲亲了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/219.jpg" width="80"> |
+| `220.jpg` | 亲亲 mua | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/220.jpg" width="80"> |
+| `221.jpg` | 我命令你现在亲我脸 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/221.jpg" width="80"> |
+| `222.jpg` | 给你我的小心心 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/222.jpg" width="80"> |
+| `223.jpg` | 送你小花花 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/223.jpg" width="80"> |
+| `224.gif` | 喜欢你（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/224.gif" width="80"> |
+| `225.gif` | mua 亲（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/225.gif" width="80"> |
+| `226.gif` | 么么哒（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/226.gif" width="80"> |
+| `227.gif` | 摸摸头（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/227.gif" width="80"> |
+| `228.gif` | 握手（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/228.gif" width="80"> |
+| `229.gif` | 多多关照（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/229.gif" width="80"> |
+| `230.jpg` | 晚安鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/230.jpg" width="80"> |
+| `231.gif` | 晚安（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/231.gif" width="80"> |
+| `232.jpg` | 我先睡了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/232.jpg" width="80"> |
+| `233.gif` | 有人在吗（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/233.gif" width="80"> |
+| `234.gif` | 有好消息告诉你哦（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/234.gif" width="80"> |
+| `235.gif` | 哎呀你好（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/235.gif" width="80"> |
+| `236.gif` | 登场，我来啦（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/236.gif" width="80"> |
+| `237.gif` | 小心脏扑通扑通（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/237.gif" width="80"> |
+| `238.gif` | 360 度害羞（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/238.gif" width="80"> |
+| `239.jpg` | 是哪个小可爱来啦 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/239.jpg" width="80"> |
+| `240.jpg` | 来呀小可爱 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/240.jpg" width="80"> |
+| `241.gif` | 啊啊啊啊好可爱（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/241.gif" width="80"> |
+| `242.jpg` | 可爱到窒息 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/242.jpg" width="80"> |
+
+## 猫和老鼠 · 开心
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `243.jpg` | 我真的很开心，心里都乐开花了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/243.jpg" width="80"> |
+| `244.jpg` | 开心快乐 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/244.jpg" width="80"> |
+| `245.jpg` | 哈哈哈哈哈 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/245.jpg" width="80"> |
+| `246.gif` | 欢天喜地的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/246.gif" width="80"> |
+| `247.gif` | 今儿心情倍儿爽（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/247.gif" width="80"> |
+| `248.gif` | 超满足（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/248.gif" width="80"> |
+| `249.gif` | 生活快乐（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/249.gif" width="80"> |
+| `250.gif` | 鼓掌（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/250.gif" width="80"> |
+| `251.jpg` | 骄傲 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/251.jpg" width="80"> |
+| `252.gif` | 洋洋自得的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/252.gif" width="80"> |
+| `253.gif` | 吃饱满足（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/253.gif" width="80"> |
+| `254.gif` | 哇塞（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/254.gif" width="80"> |
+| `255.gif` | 惊不惊喜意不意外（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/255.gif" width="80"> |
+
+## 猫和老鼠 · 难过
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `256.jpg` | 生无可恋 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/256.jpg" width="80"> |
+| `257.jpg` | 忍不住流泪 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/257.jpg" width="80"> |
+| `258.jpg` | 哇哇大哭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/258.jpg" width="80"> |
+| `259.jpg` | 凄凉 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/259.jpg" width="80"> |
+| `260.jpg` | 宝宝知错了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/260.jpg" width="80"> |
+| `261.jpg` | 困、迷茫、对什么都提不起兴趣 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/261.jpg" width="80"> |
+| `262.jpg` | 睡不着 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/262.jpg" width="80"> |
+| `263.gif` | 心如死灰的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/263.gif" width="80"> |
+| `264.gif` | 我能怎么办，我也很绝望（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/264.gif" width="80"> |
+| `265.gif` | 好烦（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/265.gif" width="80"> |
+| `266.gif` | 看我真诚的眼，我不困（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/266.gif" width="80"> |
+| `267.jpg` | 强颜欢笑 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/267.jpg" width="80"> |
+| `268.gif` | 没有人喜欢我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/268.gif" width="80"> |
+
+## 猫和老鼠 · 生气
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `269.jpg` | 我生气了快哄我 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/269.jpg" width="80"> |
+| `270.jpg` | 好气哦 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/270.jpg" width="80"> |
+| `271.jpg` | 气到头壳爆炸 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/271.jpg" width="80"> |
+| `272.gif` | 我很生气知不知道（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/272.gif" width="80"> |
+| `273.gif` | 打你大坏蛋（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/273.gif" width="80"> |
+| `274.gif` | 你再皮试试（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/274.gif" width="80"> |
+| `275.jpg` | 略略略略略略 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/275.jpg" width="80"> |
+| `276.gif` | 不听不听略略略（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/276.gif" width="80"> |
+| `277.jpg` | 撒泼 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/277.jpg" width="80"> |
+| `278.gif` | 怪我喽（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/278.gif" width="80"> |
+| `279.gif` | 来打我呀（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/279.gif" width="80"> |
+
+## 猫和老鼠 · 懵 / 日常
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `280.jpg` | 十脸震惊 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/280.jpg" width="80"> |
+| `281.jpg` | 问号 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/281.jpg" width="80"> |
+| `282.jpg` | 懵了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/282.jpg" width="80"> |
+| `283.jpg` | 惊呆 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/283.jpg" width="80"> |
+| `284.gif` | 一脸懵（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/284.gif" width="80"> |
+| `285.gif` | 啊，害怕震惊（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/285.gif" width="80"> |
+| `286.gif` | 害怕（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/286.gif" width="80"> |
+| `287.gif` | 思考（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/287.gif" width="80"> |
+| `288.jpg` | 暗中观察 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/288.jpg" width="80"> |
+| `289.jpg` | 让我看看是谁在偷看我 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/289.jpg" width="80"> |
+| `290.gif` | 吃瓜群众（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/290.gif" width="80"> |
+| `291.gif` | 前排强势围观（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/291.gif" width="80"> |
+| `292.jpg` | 溜了溜了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/292.jpg" width="80"> |
+| `293.gif` | 我先溜了（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/293.gif" width="80"> |
+| `294.gif` | 只是路过（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/294.gif" width="80"> |
+| `295.jpg` | 我有一个很大胆的想法 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/295.jpg" width="80"> |
+| `296.gif` | 我的理想是做一条咸鱼（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/296.gif" width="80"> |
+| `297.gif` | 白日做梦的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/297.gif" width="80"> |
+| `298.gif` | 做贼心虚的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/298.gif" width="80"> |
+| `299.gif` | 爱学习的我（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/299.gif" width="80"> |
+| `300.jpg` | 认真工作 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/300.jpg" width="80"> |
+| `301.jpg` | 别打扰我学习 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/301.jpg" width="80"> |
+| `302.jpg` | 周末在家的我 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/302.jpg" width="80"> |
+| `303.jpg` | 刚检查了余额 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/303.jpg" width="80"> |
+| `304.jpg` | 我钱花哪儿了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/304.jpg" width="80"> |
+| `305.jpg` | 我快递呢 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/305.jpg" width="80"> |
+| `306.jpg` | 静静看着你变胖 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/306.jpg" width="80"> |
+| `307.gif` | 饿到前胸贴后背（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/307.gif" width="80"> |
+| `308.jpg` | 突然被速冻 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/308.jpg" width="80"> |
+| `309.gif` | 夏天来了（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/309.gif" width="80"> |
+| `310.gif` | 带你飞啊（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/310.gif" width="80"> |
+| `311.jpg` | 早起冠军 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/311.jpg" width="80"> |
+| `312.jpg` | 礼貌又不失尴尬的微笑 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/312.jpg" width="80"> |
+| `313.jpg` | 好了好了我知道了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/313.jpg" width="80"> |
+| `314.jpg` | 达成共识 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/314.jpg" width="80"> |
+| `315.jpg` | 拜托拜托 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/315.jpg" width="80"> |
+| `316.jpg` | 请看我诚挚的眼神 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/316.jpg" width="80"> |
+| `317.gif` | 没想到吧（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/317.gif" width="80"> |
+| `318.gif` | 画面太美不敢看（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/318.gif" width="80"> |
+| `319.gif` | 这就是命吧（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/319.gif" width="80"> |
+| `320.gif` | 所以呢（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/320.gif" width="80"> |
+| `321.gif` | 啧啧啧（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/321.gif" width="80"> |
+| `322.gif` | 咯咯咯笑（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/322.gif" width="80"> |
+
+## 开心鸭 第二批
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `323.jpg` | 暗中观察鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/323.jpg" width="80"> |
+| `324.jpg` | 开心到飞起 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/324.jpg" width="80"> |
+| `325.jpg` | 被现实鸭垮 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/325.jpg" width="80"> |
+| `326.jpg` | 爽翻了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/326.jpg" width="80"> |
+| `327.jpg` | 对不起，可爱真的是可以为所欲为 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/327.jpg" width="80"> |
+| `328.jpg` | 你在干嘛鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/328.jpg" width="80"> |
+| `329.jpg` | 我的马鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/329.jpg" width="80"> |
+| `330.jpg` | 没眼看鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/330.jpg" width="80"> |
+| `331.jpg` | 比心 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/331.jpg" width="80"> |
+| `332.jpg` | 翻车了鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/332.jpg" width="80"> |
+| `333.jpg` | 问号 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/333.jpg" width="80"> |
+| `334.jpg` | 刚下班鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/334.jpg" width="80"> |
+| `335.jpg` | 啵啵啵 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/335.jpg" width="80"> |
+| `336.jpg` | 优雅鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/336.jpg" width="80"> |
+| `337.jpg` | 感到鸭力 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/337.jpg" width="80"> |
+| `338.jpg` | 你说我是不是你的小可爱 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/338.jpg" width="80"> |
+| `339.jpg` | 今天也要开心鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/339.jpg" width="80"> |
+| `340.jpg` | 生气地走了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/340.jpg" width="80"> |
+| `341.jpg` | 看什么看 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/341.jpg" width="80"> |
+| `342.jpg` | 被生活掐住了肚皮 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/342.jpg" width="80"> |
+| `343.jpg` | 吃太撑了鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/343.jpg" width="80"> |
+| `344.jpg` | 我看你就是在为难我鸭鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/344.jpg" width="80"> |
+| `345.jpg` | 亲我一口鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/345.jpg" width="80"> |
+| `346.jpg` | 我错了鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/346.jpg" width="80"> |
+| `347.jpg` | 为什么这样对鸭鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/347.jpg" width="80"> |
+| `348.jpg` | 今天也要美美的鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/348.jpg" width="80"> |
+| `349.jpg` | 快起床陪我玩鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/349.jpg" width="80"> |
+| `350.jpg` | 又胖了鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/350.jpg" width="80"> |
+| `351.jpg` | 气到发胖 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/351.jpg" width="80"> |
+| `352.jpg` | 来尬舞鸭 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/352.jpg" width="80"> |
+| `353.jpg` | 盯 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/353.jpg" width="80"> |
+
+## 猪
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `354.jpg` | emmm | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/354.jpg" width="80"> |
+| `355.gif` | 飞跃失败（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/355.gif" width="80"> |
+| `356.gif` | 小猪游泳（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/356.gif" width="80"> |
+| `357.jpg` | 盯 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/357.jpg" width="80"> |
+| `358.jpg` | 我是一只猪，我办不到 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/358.jpg" width="80"> |
+| `359.jpg` | 问号 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/359.jpg" width="80"> |
+| `360.jpg` | 晚安睡了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/360.jpg" width="80"> |
+| `361.jpg` | 抬头 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/361.jpg" width="80"> |
+| `362.jpg` | 打你 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/362.jpg" width="80"> |
+| `363.jpg` | mua | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/363.jpg" width="80"> |
+| `364.jpg` | 你是我全世界最喜欢的猪 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/364.jpg" width="80"> |
+| `365.gif` | 洗澡（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/365.gif" width="80"> |
+| `366.gif` | 侧躺（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/366.gif" width="80"> |
+| `367.jpg` | 你住口 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/367.jpg" width="80"> |
+
+## 仓鼠
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `368.gif` | 甭管什么东西，盘他（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/368.gif" width="80"> |
+| `369.gif` | 吃胡萝卜（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/369.gif" width="80"> |
+
+## 阿尼亚（间谍过家家）
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `370.jpg` | 这是什么人间疾苦 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/370.jpg" width="80"> |
+| `371.jpg` | 咸鱼一躺 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/371.jpg" width="80"> |
+| `372.jpg` | 从早到晚搞学习 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/372.jpg" width="80"> |
+| `373.jpg` | 不愧是我 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/373.jpg" width="80"> |
+| `374.jpg` | 给你一个笑容自己体会 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/374.jpg" width="80"> |
+| `375.jpg` | 摸鱼还得是我 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/375.jpg" width="80"> |
+| `376.png` | 虽然什么都没做但还是辛苦我自己了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/376.png" width="80"> |
+| `377.png` | 淡定从容，这下真完蛋了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/377.png" width="80"> |
+| `378.png` | 竟有此事，随便吧 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/378.png" width="80"> |
+| `379.png` | 你好厉害 / 好尴尬谁来救救我 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/379.png" width="80"> |
+| `380.png` | 还有吗再来点 / 我不看这些的 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/380.png" width="80"> |
+| `381.gif` | 不关我的事（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/381.gif" width="80"> |
+
+## 鹦鹉（动图）
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `382.gif` | 嗨起来（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/382.gif" width="80"> |
+
+## 杰尼龟
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `383.jpg` | 给爷整懵了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/383.jpg" width="80"> |
+| `384.jpg` | 憨上加憨 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/384.jpg" width="80"> |
+| `385.jpg` | 好兄弟 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/385.jpg" width="80"> |
+| `386.jpg` | 憨憨敬礼 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/386.jpg" width="80"> |
+| `387.jpg` | 给我冲 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/387.jpg" width="80"> |
+| `388.jpg` | 不冲了不冲了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/388.jpg" width="80"> |
+| `389.jpg` | 明天会更好 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/389.jpg" width="80"> |
+| `390.jpg` | 爷好委屈 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/390.jpg" width="80"> |
+| `391.jpg` | 我恰柠檬 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/391.jpg" width="80"> |
+| `392.jpg` | 等待回应 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/392.jpg" width="80"> |
+| `393.jpg` | 你醒啦 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/393.jpg" width="80"> |
+| `394.jpg` | 爷又快乐咯 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/394.jpg" width="80"> |
+| `395.jpg` | 整挺好 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/395.jpg" width="80"> |
+| `396.jpg` | 冲冲冲 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/396.jpg" width="80"> |
+| `397.gif` | 哈哈哈（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/397.gif" width="80"> |
+| `398.gif` | 戴墨镜登场（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/398.gif" width="80"> |
+
+## 奇妙猫
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `399.jpg` | 宇宙数学猫 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/399.jpg" width="80"> |
+| `400.jpg` | 问号 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/400.jpg" width="80"> |
+| `401.jpg` | 口水猫 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/401.jpg" width="80"> |
+| `402.gif` | 眼中星河（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/402.gif" width="80"> |
+| `403.jpg` | 思维升华 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/403.jpg" width="80"> |
+| `404.jpg` | 结构和细节上升了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/404.jpg" width="80"> |
+| `405.gif` | 卷猫头（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/405.gif" width="80"> |
+
+## 猫咪日常「整一个」
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `406.jpg` | 给我也整一个 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/406.jpg" width="80"> |
+| `407.jpg` | 奥利给 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/407.jpg" width="80"> |
+| `408.jpg` | 就不给你整 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/408.jpg" width="80"> |
+| `409.jpg` | 别打了我不整了 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/409.jpg" width="80"> |
+| `410.jpg` | 给你整来了四个 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/410.jpg" width="80"> |
+| `411.jpg` | 我也要 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/411.jpg" width="80"> |
+
+## 皮卡丘
+
+| 文件 | 含义 | 预览 |
+|---|---|---|
+| `412.gif` | 敲桌子（动图） | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/412.gif" width="80"> |
+| `413.jpg` | 住嘴 | <img src="https://cdn.jsdelivr.net/gh/hs-assets-7k2/stickers@main/413.jpg" width="80"> |
